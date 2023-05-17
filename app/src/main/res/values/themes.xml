@@ -3,6 +3,8 @@
     <style name="Base.Theme.Fire_test" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:fontFamily">@font/fira_sans</item>
+        <item name="fontFamily">@font/fira_sans</item>
     </style>
 
     <style name="Theme.Fire_test" parent="Base.Theme.Fire_test" />

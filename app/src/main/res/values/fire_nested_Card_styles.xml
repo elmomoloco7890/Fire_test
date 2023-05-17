@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="fire_nested_card_style" parent="Widget.MaterialComponents.CardView">
+
+    </style>
+</resources>
